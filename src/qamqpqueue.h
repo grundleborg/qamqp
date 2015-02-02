@@ -1,7 +1,7 @@
 #ifndef QAMQPQUEUE_H
 #define QAMQPQUEUE_H
 
-#include <QQueue>
+#include <QtCore/QQueue>
 
 #include "qamqpchannel.h"
 #include "qamqpmessage.h"

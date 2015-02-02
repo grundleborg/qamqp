@@ -1,7 +1,7 @@
 #ifndef QAMQPTABLE_H
 #define QAMQPTABLE_H
 
-#include <QVariantHash>
+#include <QtCore/QVariantHash>
 
 #include "qamqpglobal.h"
 

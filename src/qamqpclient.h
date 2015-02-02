@@ -1,11 +1,11 @@
 #ifndef QAMQPCLIENT_H
 #define QAMQPCLIENT_H
 
-#include <QObject>
-#include <QUrl>
-#include <QHostAddress>
-#include <QSslConfiguration>
-#include <QSslError>
+#include <QtCore/QObject>
+#include <QtCore/QUrl>
+#include <QtNetwork/QHostAddress>
+#include <QtNetwork/QSslConfiguration>
+#include <QtNetwork/QSslError>
 
 #include "qamqpglobal.h"
 

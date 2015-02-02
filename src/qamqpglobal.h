@@ -1,7 +1,7 @@
 #ifndef QAMQPGLOBAL_H
 #define QAMQPGLOBAL_H
 
-#include <QMetaType>
+#include <QtCore/QMetaType>
 
 #define AMQP_SCHEME             "amqp"
 #define AMQP_SSL_SCHEME         "amqps"

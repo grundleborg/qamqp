@@ -1,10 +1,10 @@
 #ifndef QAMQPMESSAGE_H
 #define QAMQPMESSAGE_H
 
-#include <QByteArray>
-#include <QHash>
-#include <QSharedDataPointer>
-#include <QVariant>
+#include <QtCore/QByteArray>
+#include <QtCore/QHash>
+#include <QtCore/QSharedDataPointer>
+#include <QtCore/QVariant>
 
 #include "qamqpglobal.h"
 

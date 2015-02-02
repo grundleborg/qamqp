@@ -1,7 +1,7 @@
 #ifndef QAMQPCHANNEL_H
 #define QAMQPCHANNEL_H
 
-#include <QObject>
+#include <QtCore/QObject>
 #include "qamqpglobal.h"
 
 class QAmqpClient;

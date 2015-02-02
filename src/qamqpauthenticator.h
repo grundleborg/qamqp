@@ -1,8 +1,8 @@
 #ifndef QAMQPAUTHENTICATOR_H
 #define QAMQPAUTHENTICATOR_H
 
-#include <QString>
-#include <QDataStream>
+#include <QtCore/QString>
+#include <QtCore/QDataStream>
 
 #include "qamqpglobal.h"
 
